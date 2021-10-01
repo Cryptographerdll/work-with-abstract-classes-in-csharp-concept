@@ -1,0 +1,1 @@
+# work-with-abstract-classes-in-csharp-concept

@@ -8,7 +8,7 @@ namespace AbstractClasses
         {
             salaireSpécial S1 = new salaireSpécial(10)
             {
-                nom = "khalid",
+                nom = "khalil",
                 prenom = "bouhousse",
                 salaire = 1000
             };
